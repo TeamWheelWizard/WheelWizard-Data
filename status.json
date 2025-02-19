@@ -1,6 +1,6 @@
 {
   "variant" : "success",
-  "message" : "Testing the new status message yay",
+  "message" : "Testing the new status message yay \n new line test",
   
   "all_possible_variants" : ["none","warning","error","success","info","party"]
 }
