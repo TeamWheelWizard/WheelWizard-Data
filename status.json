@@ -1,4 +1,6 @@
 {
-  "Variant" : "none",
-  "Message" : ""
+  "variant" : "success",
+  "message" : "Testing the new status message yay",
+  
+  "all_possible_variants" : ["none","warning","error","success","info","party"]
 }
