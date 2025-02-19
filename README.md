@@ -7,4 +7,4 @@ This repository is houses some files that we can request in the Wheel Wizard app
 
 
 To retrieve the information, you can do a GET request
-```https://raw.githubusercontent.com/TeamWheelWizard/WheelWizard/main/[filename + extention]```
+```https://raw.githubusercontent.com/TeamWheelWizard/WheelWizard/main/[filename + extension]```
