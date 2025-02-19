@@ -4,3 +4,7 @@
 
 # Wheel Wizard Data center
 This repository is houses some files that we can request in the Wheel Wizard application.
+
+
+To retrieve some information yourself you can do a GET request
+```https://raw.githubusercontent.com/TeamWheelWizard/WheelWizard/main/[filename + extention]```
