@@ -2,5 +2,5 @@
   "variant" : "party",
   "message" : "Look!",
   
-  "all_possible_variants" : ["none","warning","error","success","info","party","question"]
+  "we_dont_actually_parse_this_key___all_posible_variants_here" : ["none","warning","error","success","info","party","question"]
 }
