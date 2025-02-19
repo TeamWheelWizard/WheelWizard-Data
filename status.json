@@ -1,5 +1,5 @@
 {
-  "variant" : "warning",
+  "variant" : "error",
   "message" : "Look!",
   
   "all_possible_variants" : ["none","warning","error","success","info","party","question"]
