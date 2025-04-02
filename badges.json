@@ -1,5 +1,5 @@
 {
-  "all" : ["WhWzDev", "RrDev", "Translator", "GoldWinner", "SilverWinner", "BronzeWinner"],
+  "all" : ["WhWzDev", "RrDev", "Translator", "TranslatorLead", "GoldWinner", "SilverWinner", "BronzeWinner"],
   
   "4343-3434-3434": ["GoldWinner"],
   "2277-7727-2227": ["GoldWinner"],
@@ -8,8 +8,8 @@
   "3955-9063-2091": ["BronzeWinner"],
   "4988-1656-7319": ["BronzeWinner"],
 
-  "2877-6281-0055" : ["RrDev", "RrAdmin"],
-  "1509-2647-2032" : ["RrDev", "RrAdmin"],
+  "2877-6281-0055" : ["RrDev"],
+  "1509-2647-2032" : ["RrDev"],
   "0816-0438-0197" : ["WhWzDev", "RrDev"],
   "2619-9305-3743" : ["WhWzDev"],
   "0214-7488-7628" : ["WhWzDev", "Translator"],
