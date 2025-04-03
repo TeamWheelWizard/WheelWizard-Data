@@ -1,6 +1,6 @@
 {
-  "variant" : "party",
-  "message" : "Im feeling dizzy!",
+  "variant" : "info",
+  "message" : "Wario actually gets his name from a portmanteau of 'Mario' and the Japanese word 'warui', which means bad.",
   
   "we_dont_actually_parse_this_key___all_posible_variants_here" : ["none","warning","error","success","info","party","question"]
 }
