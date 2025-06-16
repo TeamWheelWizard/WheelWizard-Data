@@ -1,6 +1,6 @@
 {
-  "variant" : "info",
-  "message" : "You just lost the game",
+  "variant" : "party",
+  "message" : "Happy pride month",
   
   "we_dont_actually_parse_this_key___all_posible_variants_here" : ["none","warning","error","success","info","party","question"]
 }
