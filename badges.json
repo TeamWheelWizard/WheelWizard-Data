@@ -1,13 +1,20 @@
 {
-  "all" : ["WhWzDev", "RrDev", "Translator", "TranslatorLead", "GoldWinner", "SilverWinner", "BronzeWinner"],
+  "all" : ["WhWzDev", "RrDev", "Translator", "TranslatorLead"],
   
-  "4343-3434-3434": ["GoldWinner"],
-  "2277-7727-2227": ["GoldWinner"],
-  "1251-5622-1012": ["SilverWinner"],
-  "0000-0202-1121": ["SilverWinner"],
-  "3955-9063-2091": ["BronzeWinner"],
-  "4988-1656-7319": ["BronzeWinner"],
-
+  "4343-3434-3434": ["Firestarter_GoldWinner"],
+  "2277-7727-2227": ["Firestarter_GoldWinner"],
+  "1251-5622-1012": ["Firestarter_SilverWinner"],
+  "0000-0202-1121": ["Firestarter_SilverWinner"],
+  "3955-9063-2091": ["Firestarter_BronzeWinner"],
+  "4988-1656-7319": ["Firestarter_BronzeWinner"],
+  "0091-9119-1900": ["SummitShowdown_GoldWinner"],
+  "4472-7904-7777": ["SummitShowdown_GoldWinner"],
+  "3055-4510-9732": ["SummitShowdown_GoldWinner"],
+  "4343-3434-3434": ["SummitShowdown_SilverWinner"],
+  "2277-7727-2227": ["SummitShowdown_SilverWinner"],
+  "4642-8389 -822": ["SummitShowdown_BronzeWinner"],
+  "1117-1117-0111": ["SummitShowdown_BronzeWinner"],
+  
   "2877-6281-0055" : ["RrDev"],
   "1509-2647-2032" : ["RrDev"],
   "0816-0438-0197" : ["WhWzDev", "RrDev"],
