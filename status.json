@@ -1,6 +1,6 @@
 {
-  "variant" : "none",
-  "message" : "no message",
+  "variant" : "party",
+  "message" : "ThebeefBai",
   
   "we_dont_actually_parse_this_key___all_posible_variants_here" : ["none","warning","error","success","info","party","question"]
 }
