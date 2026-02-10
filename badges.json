@@ -1,5 +1,5 @@
 {
-  "all" : ["WhWzDev", "RrDev", "Translator", "TranslatorLead"],
+  "all" : ["WhWzDev", "RrDev", "Translator", "TranslatorLead", "Heart"],
   
   "4343-3434-3434": [ "Firestarter_GoldWinner", "Leafstruck_GoldWinner", "SummitShowdown_SilverWinner"],
   "2277-7727-2227": [ "Firestarter_GoldWinner", "Leafstruck_GoldWinner", "SummitShowdown_SilverWinner"],
@@ -18,6 +18,7 @@
   "4773-4236-8101": [ "Leafstruck_BronzeWinner" ],
   "2963-5283-8221": [ "Leafstruck_BronzeWinner" ],
   "2110-5357-1284": [ "Leafstruck_BronzeWinner" ],
+  "1202-5913-6469": [ "Heart" ]
   
   "2877-6281-0055" : ["RrDev"],
   "5069-8054-6757" : ["RrDev"],
