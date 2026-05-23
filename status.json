@@ -1,6 +1,6 @@
 {
   "color" : "#01CBA5",
   "message" : "We are aware of current server issues, you may still play offline while we work on resolving this!",
-  "icon": "warning",
+  "variant": "warning",
   "we_dont_actually_parse_this_key___all_posible_variants_here" : ["none","warning","error","success","info","party","question"]
 }
