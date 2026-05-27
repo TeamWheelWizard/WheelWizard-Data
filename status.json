@@ -1,6 +1,6 @@
 {
   "color" : "#01CBA5",
-  "message" : "servers are recovering, you can play online now but you cant update or download right now ",
+  "message" : "Server status is unstable, we are working hard to fix this",
   "variant": "warning",
   "we_dont_actually_parse_this_key___all_posible_variants_here" : ["none", "warning", "error", "success", "info", "party", "question"]
 }
