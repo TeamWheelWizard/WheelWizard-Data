@@ -1,5 +1,5 @@
 {
-  "message" : "Closed servers untill further notice",
+  "message" : "Testing servers, You may experience elevated disconnection rates",
   "variant": "warning",
   "we_dont_actually_parse_this_key___all_posible_variants_here" : ["none", "warning", "error", "success", "info", "party", "question"]
 }
